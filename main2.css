@@ -1,0 +1,154 @@
+body {
+	font-family:"Comic Sans MS", cursive;
+	font-size: 1.5em;
+	padding: 0px;
+	text-align: center;
+	line-height: 130%;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	color: #fff;
+	background-color: #069;
+}
+#container {
+	width:1050px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+	/*background-color: #FFFFFF;*/
+}
+/*#masthead {
+	width: 750px;
+	height: 60px;
+	background-color: #343434;
+}*/
+#nav {
+	margin: 0px;
+	padding: 10px 3px 0px 0px;
+	background-color: #373B3F;
+	height: 30px; 
+	font-size:9px;
+	text-align: right;
+}
+#graphic {
+	border-bottom-width: 1px;
+	border-bottom-color: #333333;
+	background-color: #FFFFFF;
+	width: 750px;
+	height: 135px;
+	border-bottom-style: solid;
+	margin: 0px;
+	padding: 0px;
+}
+#content {
+	width: 530px;
+	padding: 0px 10px 20px 20px;
+	float: left;
+	margin-top: 25px;
+}
+#footer {
+	background-color: #373b3f;
+	width: 750px;
+	height: 50px;
+	text-align: center;
+	font-size: 10px;
+	clear: both;
+	color: #FFFFFF;
+}
+button {
+	border: 1px dotted #333333;
+}
+
+a {
+	text-decoration: none;
+	color: #06c;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:visited {
+	color: #A67E1C;
+}
+img {
+	border: 0px none;
+}
+#content h1 {
+	font-size: medium;
+	font-style: normal;
+	font-weight: bolder;
+	color: #999900;
+	padding: 0px 0px 10px;
+	left: 0px;
+	top: 0px;
+	margin: 0px;
+}
+#nav a {
+	color: #CCCCCC;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px 5px 0px 15px;
+	font-size: small;
+}
+#nav a:link {
+	text-decoration: none;
+}
+#nav a:visited {
+	color: #CCCCCC;
+	text-decoration: none;
+}
+#nav a:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#sidebar {
+	float: right;
+	border-left-width: 1px;
+	border-left-color: #CCCCCC;
+	width: 185px;
+	height:600px;
+	margin-top: 25px;
+	padding: 0px 0px 0px 0px;
+}
+#sidebar h1 {
+	font-size: small;
+	font-weight: bold;
+	color: #999900;
+	background-color: #FFFFFF;
+	padding: 0px 0px 10px;
+	margin: 0px;
+}
+
+/* Quick Contact
+----------------------------------------------- */
+#quick-contact {
+background: url(file:///C|/Users/Steve/Desktop/myweb/images/quick_contact_bg.jpg);  background-repeat: repeat-y;
+margin: 2px 0 0 0px;
+}
+body#home #quick-contact {
+margin: 270px 0pt 0pt;
+}
+#fix-height {
+height: 310px;
+}
+div#quick-contact div {
+background: url(file:///C|/Users/Steve/Desktop/myweb/images/quick_contact_bottom.jpg) no-repeat left bottom;
+padding: 0 0 20px 10;
+}
+#quick-contact textarea {
+width: 150px; margin: 0 0 0 13px;margin-top: -3px;
+}
+#quick-contact input {
+width: 150px; margin: 0 0 0 13px;margin-top: -3px;
+}
+#quick-contact textarea {
+height: 80px;
+}
+#quick-contact p {
+padding: 0; margin: 7px 0 0 13px;
+}
+#quick-contact form {
+padding: 0; margin: 0;
+}
+#quick-contact .qc-send {
+margin-top: 7px
+}
+

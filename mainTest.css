@@ -22,7 +22,6 @@ html {
 	padding:0;
 	color:#000;
 	background:#069;
-	padding-left: 20px;
 }
 
 /* neutralize browser spacing for vertical elements */
@@ -167,9 +166,6 @@ h1, h2, h3, h4, h5, h6, p, pre, blockquote, ul, ol, dl, address {
 	border-left:2px solid #069;
 }
 
-#mainContent.CommunitySupporters {
-	height:2060px;
-}
 
 #mainContent h1{
 	font-size: 1.25em;
@@ -260,8 +256,6 @@ h1, h2, h3, h4, h5, h6, p, pre, blockquote, ul, ol, dl, address {
 	background-repeat:no-repeat;
 	margin:0;
 	padding:0px 0 20px 40px;
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:1em;
 }
 
 #mainContent ul a{
@@ -281,10 +275,6 @@ h1, h2, h3, h4, h5, h6, p, pre, blockquote, ul, ol, dl, address {
 #mainContent li a:visited{
 		color:#600;
 		border-bottom:1px solid #600;
-}
-
-#CommunityMembers {
-		height:450px;
 }
 
 #footer {
@@ -352,3 +342,5 @@ h1, h2, h3, h4, h5, h6, p, pre, blockquote, ul, ol, dl, address {
 *html #footer {
 	height:1px;
 }
+
+
